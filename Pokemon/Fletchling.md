@@ -1,0 +1,1 @@
+#Normal #Fire #Flying 

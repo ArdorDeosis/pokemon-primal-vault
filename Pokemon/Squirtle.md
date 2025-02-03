@@ -1,0 +1,6 @@
+---
+aliases:
+  - Blastoise
+---
+
+#Water #Starter 

@@ -1,0 +1,6 @@
+---
+aliases:
+  - Dreadnaw
+---
+
+#Water #Rock 

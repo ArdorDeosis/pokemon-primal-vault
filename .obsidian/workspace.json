@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "a29565332b831424",
+    "type": "split",
+    "children": [
+      {
+        "id": "91ecf50a722c209b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1186ca2330b4776c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pokemon/Amaura.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amaura"
+            }
+          },
+          {
+            "id": "d5eeed82fe5f92f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideas"
+            }
+          },
+          {
+            "id": "ced4736900e54c6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biomes/Dungeon/Desert.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Desert"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42c6e350674fd1e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "242b208cb3a5b6b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bafa5d97877a8c17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "55f89d5d1a95cc62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Bug",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ffffe9b83a68dfcf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6faf8aec7cd9d0f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac79d65b975d5ebc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "759122c2860d6465",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ideas"
+            }
+          },
+          {
+            "id": "41127e35a2a6d43f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ideas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ideas"
+            }
+          },
+          {
+            "id": "281c12101b791480",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "47b0f09b738ce226",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ideas.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ideas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d5eeed82fe5f92f0",
+  "lastOpenFiles": [
+    "New Text Document.txt",
+    "Pokemon/Cacnea.md",
+    "Ideas.md",
+    "Pokemon/Amaura.md",
+    "Pokemon/Aerodactyl.md",
+    "Pokemon/Abra.md",
+    "Progression.md",
+    "Biomes/Tempered Forest.md",
+    "Biomes/Plains.md",
+    "Biomes/Mountains.md",
+    "Stats.md",
+    "Biomes/Dungeon",
+    "Biomes/Dungeon/Desert.md",
+    "Pokemon/Spearow.md",
+    "Pokemon/Hoothoot.md",
+    "Pokemon/Sentret.md",
+    "Pasted image 20250203123956.png",
+    "Pokemon/Onix.md",
+    "Pokemon/Aron.md",
+    "().md",
+    "Pokemon/Pineco.md",
+    "Pokemon/Durant.md",
+    "Pokemon/Geodude.md",
+    "Pokemon/Frigibax.md",
+    "Untitled",
+    "Pokemon/Ting-Lu.md",
+    "Pokemon/Chi-Yu.md",
+    "Pokemon/Chien-Pao.md",
+    "Pokemon/Wo-Chien.md",
+    "Pokemon/Untitled",
+    "Resources",
+    "Biomes",
+    "Pokemon"
+  ]
+}

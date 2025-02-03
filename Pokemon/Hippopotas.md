@@ -1,0 +1,7 @@
+---
+aliases:
+  - Hippowdon
+---
+#Ground 
+
+[[Desert]]
