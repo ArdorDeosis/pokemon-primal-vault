@@ -1,3 +1,4 @@
+[[Town 8]]
 Turtle themed
 
 Pokémon
@@ -5,3 +6,5 @@ Pokémon
 - [[Turtwig|Torterra]]
 - [[Torkoal]]
 - [[Tirtouga]]
+- [[Squirtle]]
+- [[Chewtle|Dreadnaw]]

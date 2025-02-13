@@ -10,7 +10,7 @@ Magma Form
 
 
 [[Caves]] [[Mountains]] 
-fire form => [[Volcano]]
+fire form => [[Locations/Dungeon/Volcano]]
 
 ```dataviewjs
 function getImagePath(number) {

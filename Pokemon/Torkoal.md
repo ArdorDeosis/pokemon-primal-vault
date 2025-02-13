@@ -7,7 +7,7 @@ numbers:
 
 trio with [[Squirtle|Blastoise]] and [[Turtwig|Torterra]]?
 
-[[Volcano]] or maybe hot springs somewhere?
+[[Locations/Dungeon/Volcano]] or maybe hot springs somewhere?
 
 ```dataviewjs
 function getImagePath(number) {

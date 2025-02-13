@@ -4,9 +4,8 @@ numbers:
 ---
 #Rock #Legendary 
 
-only without the rest, the rest sucks... so maybe an altered appearance?
+replaced it with [[Ho-Oh]]
 
-event pokemon?
 
 ```dataviewjs
 function getImagePath(number) {

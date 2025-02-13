@@ -2,6 +2,8 @@
 numbers:
   - "129"
   - "130"
+aliases:
+  - Gyarados
 ---
 #Water #Flying 
 

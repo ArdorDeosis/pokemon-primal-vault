@@ -47,3 +47,8 @@ tribes/humans based on pokemon
 # Fixed Institutions
 
 - daycare
+
+
+# Forest Island
+
+with [[Pancham]] and [[Heracross]]

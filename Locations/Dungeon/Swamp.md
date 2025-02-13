@@ -9,7 +9,7 @@ Pokémon
 - [[Yanma]]
 
 ### Fishing
-#### Old Rod
+#### [[Old Rod]]
 - any fish?
 - [[Poliwag]]
 - [[Wooper]]

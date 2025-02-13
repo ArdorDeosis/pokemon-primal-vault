@@ -9,7 +9,7 @@ Fire Form #Fire
 
 would like to kick steelix
 
-[[Caves]] [[Volcano]]
+[[Caves]] [[Locations/Dungeon/Volcano]]
 
 ```dataviewjs
 function getImagePath(number) {

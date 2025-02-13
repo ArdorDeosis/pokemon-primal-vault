@@ -11,6 +11,9 @@ numbers:
 
 [[Tempered Forest]], maybe [[Tropical]] or [[Plains]]
 
+make it evolve when given a spoon
+make variants based on different items given?
+
 ```dataviewjs
 function getImagePath(number) {
     return app.vault.adapter.getResourcePath(`images/${String(number).padStart(3, "0")}.png`);

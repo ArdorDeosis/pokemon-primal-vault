@@ -6,7 +6,7 @@ numbers:
 ---
 #Fire #Starter 
 
-[[Volcano]]
+[[Locations/Dungeon/Volcano]]
 
 ```dataviewjs
 function getImagePath(number) {

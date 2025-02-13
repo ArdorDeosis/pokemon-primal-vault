@@ -8,3 +8,6 @@ Pokémon (options)
 - [[Lileep]]
 - [[Grimer]]
 - [[Yanma]]
+
+# Fluff
+legends of fighting forces, land vs sea, why not merge?

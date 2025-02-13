@@ -3,9 +3,9 @@ stats: "515"
 numbers:
   - "142"
 ---
-#Fossil #Rock #Water 
+#Fossil #Rock
 
-[[Mountains]], possibly [[Volcano]]
+[[Mountains]], possibly [[Locations/Dungeon/Volcano]]
 
 ```dataviewjs
 function getImagePath(number) {

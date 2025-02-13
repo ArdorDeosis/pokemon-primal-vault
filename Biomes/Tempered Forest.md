@@ -1,7 +1,9 @@
 Starting Zone
-borders on: [[Plains]], [[Mountains]]
+borders on: [[Plains]], [[Mountains]], [[Ice Sea]]
 
 Conifers
+
+dotted with small Cave Systems containing [[Zubat]] [[Paras]] [[Diglett]] and [[Kabuto]] when fishing/surfing
 
 Pokemon
 ---
@@ -10,6 +12,8 @@ Birds: [[Bombirdier]], [[Pidgey]], [[Spearow]], [[Fletchling]]
 Bugs: [[Caterpie]], [[Weedle]], [[Pinsir]], [[Heracross]], [[Venonat]]
 
 Other: [[Abra]]
+
+
 
 ```dataviewjs
 function getPokemon() {

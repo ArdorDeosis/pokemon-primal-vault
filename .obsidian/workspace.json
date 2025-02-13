@@ -8,45 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1186ca2330b4776c",
+            "id": "006ce52e48d1aa66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Jungle Route 01.md",
+                "file": "Pokemon/Mew.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jungle Route 01"
-            }
-          },
-          {
-            "id": "c99b5a046b1c13c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Town 8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Town 8"
-            }
-          },
-          {
-            "id": "45fe3d2bd548cce7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Gyms/Gym 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gym 6"
+              "title": "Mew"
             }
           },
           {
@@ -55,30 +27,51 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Town 3.md",
+                "file": "Pokemon/Skrelp.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Town 3"
+              "title": "Skrelp"
             }
           },
           {
-            "id": "19f8cf9197d5128e",
+            "id": "302767d5188cd4e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stats.md",
+                "file": "Locations/Routes/Route 05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stats"
+              "title": "Route 05"
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "01b97e4143319941",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c99b5a046b1c13c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biomes/Tempered Forest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tempered Forest"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,6 +224,7 @@
           {
             "id": "5eb77b60c8aa3076",
             "type": "tabs",
+            "dimension": 74.27083333333333,
             "children": [
               {
                 "id": "2bb842ac855fb498",
@@ -240,13 +234,34 @@
                   "state": {
                     "file": "Map.canvas",
                     "viewState": {
-                      "x": 220.50822868107562,
-                      "y": 344.1737012981582,
-                      "zoom": -0.7334931486334435
+                      "x": -477.0529781730436,
+                      "y": -292.5609264572324,
+                      "zoom": -1
                     }
                   },
                   "icon": "lucide-layout-dashboard",
                   "title": "Map"
+                }
+              }
+            ]
+          },
+          {
+            "id": "9f54e476dea30386",
+            "type": "tabs",
+            "dimension": 25.729166666666664,
+            "children": [
+              {
+                "id": "19f8cf9197d5128e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Stats.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Stats"
                 }
               }
             ]
@@ -262,34 +277,38 @@
       }
     ]
   },
-  "active": "45fe3d2bd548cce7",
+  "active": "302767d5188cd4e3",
   "lastOpenFiles": [
-    "Locations/Town 8.md",
-    "Locations/Town 3.md",
-    "Locations/Dungeon/Ruins.md",
-    "Fishing.md",
-    "Map.canvas",
-    "Locations/Route 03.md",
+    "Locations/Routes/Route 04.md",
     "Biomes/Tempered Forest.md",
-    "Locations/Dungeon/Swamp.md",
-    "Locations/Gyms/Gym 2.md",
-    "Pokemon/Grimer.md",
-    "Locations/Gyms/Gym 1.md",
-    "Locations/Gyms/Gym 8.md",
-    "Locations/Gyms/Gym 7.md",
-    "Locations/Gyms/Gym 6.md",
-    "Locations/Gyms/Gym 5.md",
-    "Locations/Gyms/Gym 3.md",
-    "Locations/Gyms/Gym 4.md",
-    "Locations/Route 04.md",
-    "Ideas.md",
-    "Locations/Water Route 2 South.md",
-    "Locations/Water Route 2 North.md",
-    "Locations/Water Route 1 South.md",
     "Stats.md",
-    "Locations/Jungle Route 01.md",
-    "Locations/Town 6.md",
-    "Locations/Town 2.md",
+    "Locations/Towns/Town 3.md",
+    "Locations/Routes/Route 03.md",
+    "Locations/Towns/Town 2.md",
+    "Items/Old Rod.md",
+    "Locations/Routes/Route 02.md",
+    "Locations/Dungeon/Forest.md",
+    "Pokemon/Slakoth.md",
+    "Locations/Towns/Town 1.md",
+    "Locations/Routes/Route 01.md",
+    "Locations/Gyms/Gym 1.md",
+    "Locations/Routes/Ice Sea.md",
+    "Pokemon/Mankey.md",
+    "Map.canvas",
+    "Locations/Gyms/Gym 2.md",
+    "Locations/Gyms/Gym 3.md",
+    "Progression.md",
+    "Locations/Dungeon/Swamp.md",
+    "Locations/Dungeon/Volcano.md",
+    "Biomes/Volcano.md",
+    "Locations/Routes/Desert.md",
+    "Biomes/Caves.md",
+    "Biomes/Desert.md",
+    "Pokemon/Skrelp.md",
+    "Pokemon/Piplup.md",
+    "Locations/Routes",
+    "Locations/Towns",
+    "Items",
     "Locations/Dungeon",
     "Locations/Gyms",
     "Locations",
@@ -304,11 +323,8 @@
     "images/961.png",
     "images/961.png.crdownload",
     "images/960.png",
-    "images/960.png.crdownload",
     "images/949.png",
-    "images/949.png.crdownload",
     "images/948.png",
-    "images/948.png.crdownload",
     "images/1003.png"
   ]
 }

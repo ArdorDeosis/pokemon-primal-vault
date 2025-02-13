@@ -5,7 +5,7 @@ numbers:
 ---
 #Bug #Fire 
 
-[[Tropical]] [[Volcano]]
+[[Tropical]] [[Locations/Dungeon/Volcano]]
 
 ```dataviewjs
 function getImagePath(number) {

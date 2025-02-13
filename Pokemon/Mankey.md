@@ -3,6 +3,8 @@ numbers:
   - "56"
   - "57"
 stats: 305
+aliases:
+  - Primeape
 ---
 #Fighting 
 

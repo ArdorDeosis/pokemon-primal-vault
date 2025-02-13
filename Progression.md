@@ -1,21 +1,32 @@
-# Start
 
-Biome: [[Tempered Forest]]
+| Location             | Event                  | Triggers                                                                 | Notes                                                                                                                                       |
+| -------------------- | ---------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Home Town]]        | select Starter Pokemon |                                                                          |                                                                                                                                             |
+| [[Town 1]]           | talk to someone        |                                                                          | needs story                                                                                                                                 |
+| [[Home Town]]        | get Pokedex            | open [[Route 02]]                                                        |                                                                                                                                             |
+| [[Town 2]]           | beat [[Gym 1]]         | open [[Route 03]]                                                        | why open route?                                                                                                                             |
+| [[Swamp]]            | travers                |                                                                          |                                                                                                                                             |
+| [[Town 3]]           | beat [[Gym 2]]         | open [[Route 04]]                                                        | why open route?                                                                                                                             |
+| [[Ice Mountain]]     | ???                    | opens [[Gym 3]]                                                          |                                                                                                                                             |
+| [[Town 4]]           | beat [[Gym 3]]         |                                                                          |                                                                                                                                             |
+| [[Town 1]]           | help boat guy          | open ferry route to [[Town 5]]                                           |                                                                                                                                             |
+| [[Ruins]]            |                        |                                                                          | optional, maybe after                                                                                                                       |
+| [[Town 6]]           | beat [[Gym 4]]         | learn cut => open [[Jungle Route 02]], [[Route 06]]                      | [[Route 06]] should stay closed until [[Gym 5]] is beaten. How can I prevent this? maybe not tie it to cut but to the [[Bad Team Hideout]]? |
+| [[Locations/Dungeon/Volcano]]          |                        |                                                                          | optional; maybe traverse [[Locations/Dungeon/Volcano]] to reach [[Gym 5]]?                                                                                    |
+| [[Town 7]]           | beat [[Gym 5]]         |                                                                          |                                                                                                                                             |
+| [[Bad Team Hideout]] |                        | open [[Route 06]]                                                        |                                                                                                                                             |
+| [[Late Cave]]        | traverse               |                                                                          |                                                                                                                                             |
+| [[Town 8]]           | beat [[Gym 6]]         | learn surf => open [[Mountain Route]], the water routes and [[Ice Sea]]? | *if* I have [[Ice Sea]], should it stay closed off?                                                                                         |
+| [[Mountain Route]]   | traverse               |                                                                          |                                                                                                                                             |
+| [[Town 9]]           | beat [[Gym 7]]         | able to use rock smash outside combat                                    |                                                                                                                                             |
+| [[Prairie Route]]    |                        |                                                                          |                                                                                                                                             |
+| [[Town 10]]          |                        | get rock smash and desert blocking item => open [[Town 11]]              | maybe rock smash and the desert blocking-item should be the same?                                                                           |
+| [[Locations/Routes/Desert]]           |                        |                                                                          | optional                                                                                                                                    |
+| [[Town 11]]          | beat [[Gym 8]]         |                                                                          |                                                                                                                                             |
+| elite 4?             |                        |                                                                          | mayve tie-in with [[]]                                                                                                                      |
 
-First Route Pokemon: [[Sentret]], one of [[Pidgey]], [[Spearow]], [[Fletchling]]
+# Late Game
 
-Further early Pokemon: 
-- [[Slakoth]]
+get [[Ho-Oh]] in [[Ruins]]
+get [[Lugia]] in [[Ice Sea]]?
 
-First Forest Pokemon:
-- Bugs: [[Caterpie]], [[Paras]], [[Pineco]], [[Surskit]], [[Venonat]], [[Weedle]]
-
-
-
-
-
-# Story
-- in [[Tempered Forest]], a guy at the coast came with a boat from [[Tropical]] to get something. you help him retrieve that, then he will take you on his boat to [[Tropical]].
-	- the water route could be explored later with surf
-- learn cut in [[Tropical]]
-- learn surf in the coast town

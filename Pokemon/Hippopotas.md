@@ -7,7 +7,7 @@ numbers:
 ---
 #Ground 
 
-[[Desert]]
+[[Locations/Routes/Desert]]
 
 ```dataviewjs
 function getImagePath(number) {

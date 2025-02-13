@@ -5,7 +5,7 @@ numbers:
 ---
 #Fire #Rock 
 
-[[Volcano]]
+[[Locations/Dungeon/Volcano]]
 
 ```dataviewjs
 function getImagePath(number) {

@@ -5,7 +5,7 @@ numbers:
 ---
 #Bug #Grass 
 
-[[Tempered Forest]] [[Tropical]] [[Caves]] maybe even [[Volcano]]?
+[[Tempered Forest]] [[Tropical]] [[Caves]] maybe even [[Locations/Dungeon/Volcano]]?
 
 ```dataviewjs
 function getImagePath(number) {
