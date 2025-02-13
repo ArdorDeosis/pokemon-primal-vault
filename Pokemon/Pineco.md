@@ -1,7 +1,28 @@
+---
+numbers:
+  - "204"
+  - "205"
+---
 #Bug #Steel
 
 alternate evolution without steel?
 
-![200](https://archives.bulbagarden.net/media/upload/7/7a/0204Pineco.png)
+[[Snow]] [[Tempered Forest]]
 
-![200](https://archives.bulbagarden.net/media/upload/4/45/0205Forretress.png)
+```dataviewjs
+function getImagePath(number) {
+    return app.vault.adapter.getResourcePath(`images/${String(number).padStart(3, "0")}.png`);
+}
+
+const container = dv.el("div", "", {
+    style: "display: flex; flex-wrap: wrap; gap: 1em; background: red; padding: 1em;"
+});
+
+dv.current().numbers.forEach(number => {
+    const img = document.createElement("img");
+    img.src = getImagePath(number);
+    img.style.width = "100px";
+    img.style.height = "100px";
+    container.appendChild(img);
+});
+```

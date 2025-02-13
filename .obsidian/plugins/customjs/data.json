@@ -1,0 +1,7 @@
+{
+  "jsFiles": "utility.js",
+  "jsFolder": ".",
+  "startupScriptNames": [],
+  "registeredInvocableScriptNames": [],
+  "rerunStartupScriptsOnFileChange": false
+}

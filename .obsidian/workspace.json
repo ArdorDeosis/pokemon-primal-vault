@@ -13,44 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pokemon/Amaura.md",
+                "file": "Locations/Jungle Route 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amaura"
+              "title": "Jungle Route 01"
             }
           },
           {
-            "id": "d5eeed82fe5f92f0",
+            "id": "c99b5a046b1c13c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "Locations/Town 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "Town 8"
             }
           },
           {
-            "id": "ced4736900e54c6d",
+            "id": "45fe3d2bd548cce7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biomes/Dungeon/Desert.md",
+                "file": "Locations/Gyms/Gym 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desert"
+              "title": "Gym 6"
+            }
+          },
+          {
+            "id": "071b6e1899aac5af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Town 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Town 3"
+            }
+          },
+          {
+            "id": "19f8cf9197d5128e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stats"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +97,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -81,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Bug",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,40 +220,95 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5eeed82fe5f92f0",
+  "floating": {
+    "id": "2621a4cb64f7e677",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5f1dc596e827077b",
+        "type": "window",
+        "children": [
+          {
+            "id": "5eb77b60c8aa3076",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2bb842ac855fb498",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Map.canvas",
+                    "viewState": {
+                      "x": 220.50822868107562,
+                      "y": 344.1737012981582,
+                      "zoom": -0.7334931486334435
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Map"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1627,
+        "y": 122,
+        "width": 1579,
+        "height": 995,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "45fe3d2bd548cce7",
   "lastOpenFiles": [
-    "New Text Document.txt",
-    "Pokemon/Cacnea.md",
-    "Ideas.md",
-    "Pokemon/Amaura.md",
-    "Pokemon/Aerodactyl.md",
-    "Pokemon/Abra.md",
-    "Progression.md",
+    "Locations/Town 8.md",
+    "Locations/Town 3.md",
+    "Locations/Dungeon/Ruins.md",
+    "Fishing.md",
+    "Map.canvas",
+    "Locations/Route 03.md",
     "Biomes/Tempered Forest.md",
-    "Biomes/Plains.md",
-    "Biomes/Mountains.md",
+    "Locations/Dungeon/Swamp.md",
+    "Locations/Gyms/Gym 2.md",
+    "Pokemon/Grimer.md",
+    "Locations/Gyms/Gym 1.md",
+    "Locations/Gyms/Gym 8.md",
+    "Locations/Gyms/Gym 7.md",
+    "Locations/Gyms/Gym 6.md",
+    "Locations/Gyms/Gym 5.md",
+    "Locations/Gyms/Gym 3.md",
+    "Locations/Gyms/Gym 4.md",
+    "Locations/Route 04.md",
+    "Ideas.md",
+    "Locations/Water Route 2 South.md",
+    "Locations/Water Route 2 North.md",
+    "Locations/Water Route 1 South.md",
     "Stats.md",
-    "Biomes/Dungeon",
-    "Biomes/Dungeon/Desert.md",
-    "Pokemon/Spearow.md",
-    "Pokemon/Hoothoot.md",
-    "Pokemon/Sentret.md",
-    "Pasted image 20250203123956.png",
-    "Pokemon/Onix.md",
-    "Pokemon/Aron.md",
-    "().md",
-    "Pokemon/Pineco.md",
-    "Pokemon/Durant.md",
-    "Pokemon/Geodude.md",
-    "Pokemon/Frigibax.md",
-    "Untitled",
-    "Pokemon/Ting-Lu.md",
-    "Pokemon/Chi-Yu.md",
-    "Pokemon/Chien-Pao.md",
-    "Pokemon/Wo-Chien.md",
-    "Pokemon/Untitled",
-    "Resources",
-    "Biomes",
-    "Pokemon"
+    "Locations/Jungle Route 01.md",
+    "Locations/Town 6.md",
+    "Locations/Town 2.md",
+    "Locations/Dungeon",
+    "Locations/Gyms",
+    "Locations",
+    "map-large.png",
+    "map.png",
+    "images/941.png",
+    "images/941.png.crdownload",
+    "images/940.png",
+    "images/940.png.crdownload",
+    "images/1001.png",
+    "images/1001.png.crdownload",
+    "images/961.png",
+    "images/961.png.crdownload",
+    "images/960.png",
+    "images/960.png.crdownload",
+    "images/949.png",
+    "images/949.png.crdownload",
+    "images/948.png",
+    "images/948.png.crdownload",
+    "images/1003.png"
   ]
 }
