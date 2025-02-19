@@ -8,108 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "302767d5188cd4e3",
+            "id": "1186ca2330b4776c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biomes/Tropical.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tropical"
-            }
-          },
-          {
-            "id": "2561571aa30dccd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fishing (and surf).md",
+                "file": "Pokemon/Amaura.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fishing (and surf)"
+              "title": "Amaura"
             }
           },
           {
-            "id": "d53ae175139cf87e",
+            "id": "d5eeed82fe5f92f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Tilesets.md",
+                "file": "Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tilesets"
+              "title": "Ideas"
+            }
+          },
+          {
+            "id": "ced4736900e54c6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biomes/Dungeon/Desert.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Desert"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "80999d1b2471e147",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "071b6e1899aac5af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Routes/Jungle Route 01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Jungle Route 01"
-            }
-          },
-          {
-            "id": "fc12762004a701c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Routes/Jungle Route 02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jungle Route 02"
-            }
-          },
-          {
-            "id": "bae8b743af3e041c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pokemon/Chikorita.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chikorita"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Bug",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -251,53 +192,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d53ae175139cf87e",
+  "active": "d5eeed82fe5f92f0",
   "lastOpenFiles": [
-    "Locations/Gyms/Gym 3.md",
-    "Map.canvas",
-    "Locations/Gyms/Gym 4.md",
-    "Fishing (and surf).md",
-    "Biomes/Tropical.md",
-    "Locations/Gyms/Gym 2.md",
-    "Locations/Gyms/Gym 1.md",
-    "Locations/Routes/Jungle Route 01.md",
-    "Locations/Routes/Jungle Route 02.md",
-    "Pokemon/Chikorita.md",
-    "Stats.md",
-    "Pokemon/Magikarp.md",
-    "Pokemon/Squirtle.md",
-    "Pokemon/Goldeen.md",
-    "Locations/Dungeon/Volcano.md",
-    "Locations/Towns/Town 5.md",
-    "Locations/Routes/Water Route 1.md",
-    "Pokemon/Lileep.md",
-    "Pokemon/Turtwig.md",
-    "Biomes/Tempered Forest.md",
-    "Biomes/Mountains.md",
-    "Locations/Dungeon/Ruins.md",
-    "Locations/Towns/Town 6.md",
-    "Locations/Routes/Water Route 2.md",
-    "Locations/Towns/Town 1.md",
-    "Biomes/Sea.md",
-    "customJS/Rendering.js",
-    "customJS/New Text Document.txt",
-    "customJS/Pokemon.js",
-    "Pokemon.js",
-    "customJS",
-    "New folder",
-    "Locations/Routes",
-    "Locations/Towns",
-    "Items",
-    "Locations/Dungeon",
-    "map-large.png",
     "map.png",
-    "images/941.png",
-    "images/940.png",
-    "images/1001.png",
-    "images/961.png",
-    "images/960.png",
-    "images/949.png",
-    "images/948.png",
-    "images/1003.png"
+    "images/897.png",
+    "map-large.png",
+    "images/904.png",
+    "images/898.png",
+    "images/899.png",
+    "images/902.png",
+    "images/905.png",
+    "images/903.png",
+    "images/901.png",
+    "images/900.png",
+    "Templates/Images.md",
+    "Templates",
+    "images",
+    "customJS/Rendering.js",
+    "customJS/Pokemon.js",
+    "customJS",
+    "Pokemon/Skrelp.md",
+    "Locations/Towns/Town 9.md",
+    "Locations/Towns/Town 8.md",
+    "Locations/Towns/Town 7.md",
+    "Locations/Towns/Town 6.md",
+    "Locations/Towns/Town 5.md",
+    "Locations/Towns/Town 4.md",
+    "Locations/Towns/Town 3.md",
+    "Locations/Towns/Town 2.md",
+    "Locations/Towns/Town 11.md",
+    "Locations/Towns/Town 10.md",
+    "Locations/Towns/Town 1.md",
+    "Locations/Routes/Water Route 2.md",
+    "Locations/Towns/Home Town.md",
+    "Locations/Routes/Water Route 1.md",
+    "Locations/Routes/Route 07.md",
+    "Locations/Routes/Route 06.md",
+    "Locations/Routes/Route 05.md",
+    "Locations/Routes/Route 04.md",
+    "Locations/Routes/Route 03.md",
+    "Locations/Routes/Route 02.md",
+    "Locations/Routes/Route 01.md",
+    "Locations/Routes/Prairie Route.md",
+    "Locations/Routes/Mountain Route.md",
+    "Locations/Towns",
+    "Locations/Routes",
+    "Locations/Gyms",
+    "Locations/Dungeon",
+    "Locations"
   ]
 }
