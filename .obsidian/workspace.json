@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "Progression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "Progression"
+            }
+          },
+          {
+            "id": "685347dd22f5e99a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pokemon/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,11 +206,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5eeed82fe5f92f0",
+  "active": "685347dd22f5e99a",
   "lastOpenFiles": [
+    "Pokemon/2.md",
+    "Pokemon/1.md",
+    "Pokemon/3.md",
+    "Pokemon/50.md",
+    "Pokemon/1025.md",
+    "Pokemon/1024.md",
+    "Pokemon/1023.md",
+    "Pokemon/1022.md",
+    "Pokemon/1021.md",
+    "Pokemon/1020.md",
+    "Pokemon/1019.md",
+    "Pokemon/1018.md",
+    "Pokemon/1017.md",
+    "Pokemon/1016.md",
+    "Pokemon/1015.md",
+    "Pokemon/1014.md",
+    "Pokemon/1013.md",
+    "Pokemon/1012.md",
+    "Pokemon/1011.md",
+    "Pokemon/1010.md",
+    "Pokemon/1009.md",
+    "Pokemon/1008.md",
+    "Pokemon/1007.md",
+    "Pokemon/1006.md",
+    "Pokemon/1005.md",
+    "Pokemon/1004.md",
+    "Map.canvas",
     "map.png",
-    "images/897.png",
     "map-large.png",
+    "images/897.png",
     "images/904.png",
     "images/898.png",
     "images/899.png",
@@ -204,37 +245,11 @@
     "images/905.png",
     "images/903.png",
     "images/901.png",
-    "images/900.png",
-    "Templates/Images.md",
     "Templates",
     "images",
     "customJS/Rendering.js",
     "customJS/Pokemon.js",
     "customJS",
-    "Pokemon/Skrelp.md",
-    "Locations/Towns/Town 9.md",
-    "Locations/Towns/Town 8.md",
-    "Locations/Towns/Town 7.md",
-    "Locations/Towns/Town 6.md",
-    "Locations/Towns/Town 5.md",
-    "Locations/Towns/Town 4.md",
-    "Locations/Towns/Town 3.md",
-    "Locations/Towns/Town 2.md",
-    "Locations/Towns/Town 11.md",
-    "Locations/Towns/Town 10.md",
-    "Locations/Towns/Town 1.md",
-    "Locations/Routes/Water Route 2.md",
-    "Locations/Towns/Home Town.md",
-    "Locations/Routes/Water Route 1.md",
-    "Locations/Routes/Route 07.md",
-    "Locations/Routes/Route 06.md",
-    "Locations/Routes/Route 05.md",
-    "Locations/Routes/Route 04.md",
-    "Locations/Routes/Route 03.md",
-    "Locations/Routes/Route 02.md",
-    "Locations/Routes/Route 01.md",
-    "Locations/Routes/Prairie Route.md",
-    "Locations/Routes/Mountain Route.md",
     "Locations/Towns",
     "Locations/Routes",
     "Locations/Gyms",

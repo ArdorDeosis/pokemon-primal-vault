@@ -5,6 +5,8 @@
     "tags": "tags",
     "pokemon": "multitext",
     "numbers": "multitext",
-    "stats": "number"
+    "stats": "number",
+    "tester": "checkbox",
+    "id": "number"
   }
 }

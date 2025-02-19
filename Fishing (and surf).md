@@ -36,6 +36,8 @@ Pokémon Inland
 
 - [[Chewtle]]
 
+
+
 ```dataviewjs
 const { Pokemon } = await cJS();
 dv.el("div").replaceChildren(

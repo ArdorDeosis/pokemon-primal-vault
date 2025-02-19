@@ -6,3 +6,5 @@
 - [[Mankey]]
 - [[Mankey|Primeape]]
 
+patron pokemon: [[]]
+
