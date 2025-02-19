@@ -5,7 +5,7 @@ numbers:
 ---
 #Psychic #Flying 
 
-[[Tropical]] ruins?
+[[Tropical]] [[ruins]]?
 
 ```dataviewjs
 function getImagePath(number) {

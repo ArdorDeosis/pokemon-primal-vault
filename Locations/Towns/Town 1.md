@@ -16,3 +16,16 @@ Connections
 West: [[Route 02]]
 South: [[Water Route 1]]
 East: [[Route 01]]
+
+Pokémon
+---
+- Grass
+	- [[Dwebble]] 
+	- [[Wingull]]
+- [[Old Rod]]
+	- [[Shellder]]
+- [[Good Rod]]
+	- [[Wailmer]]
+- Surf
+	- [[Wingull]]
+	- [[Wailmer]]

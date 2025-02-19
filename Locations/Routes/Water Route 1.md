@@ -1,6 +1,9 @@
 
 Do I need something to draw the player to this route? probs not...
 
+North: [[Town 1]]
+South: [[Town 5]]
+
 Pokémon
 ---
 ### North Coast, maybe on [[Town 1]] map

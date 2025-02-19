@@ -35,3 +35,12 @@ Pokémon Inland
 - [[Feebas]]
 
 - [[Chewtle]]
+
+```dataviewjs
+const { Pokemon } = await cJS();
+dv.el("div").replaceChildren(
+	Pokemon.Render.SpriteList(
+		Pokemon.LinkedInCurrent(dv)
+	)
+);
+```

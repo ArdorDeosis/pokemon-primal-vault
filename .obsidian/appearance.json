@@ -1,4 +1,5 @@
 {
   "textFontFamily": "Fira Code",
-  "cssTheme": "Minimal"
+  "cssTheme": "",
+  "accentColor": "#f57b5c"
 }

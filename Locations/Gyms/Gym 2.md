@@ -5,7 +5,7 @@ Swamp themed gym
 Pokémon (options)
 ---
 - [[Mudkip]]
-- [[Lileep]]
+- [[Lileep]] (maybe not, if it is not accessible)
 - [[Grimer]]
 - [[Yanma]]
 

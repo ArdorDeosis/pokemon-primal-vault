@@ -6,7 +6,7 @@ numbers:
 ---
 #Grass #Starter 
 
-[[Tempered Forest]]
+[[Tropical]]
 
 ```dataviewjs
 function getImagePath(number) {

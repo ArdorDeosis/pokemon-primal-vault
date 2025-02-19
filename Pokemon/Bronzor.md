@@ -6,7 +6,7 @@ numbers:
 
 #Steel #Psychic 
 
-ruins in tropical area? aztec style?
+[[ruins]] in tropical area? aztec style?
 
 ```dataviewjs
 function getImagePath(number) {

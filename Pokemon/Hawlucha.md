@@ -4,7 +4,7 @@ numbers:
 ---
 #Fighting #Flying 
 
-[[Tropical]] maybe some ruins?
+[[Tropical]] maybe some [[ruins]]?
 
 ```dataviewjs
 function getImagePath(number) {
