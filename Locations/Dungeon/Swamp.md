@@ -3,21 +3,21 @@
 Pokémon
 ---
 ### Grass
-- [[Morelull]]
-- [[Grimer]]
-- [[Ekans]]
-- [[Yanma]]
+- [[755|Morelull]]
+- [[88|Grimer]]
+- [[23|Ekans]]
+- [[193|Yanma]]
 
 ### Fishing
 #### [[Old Rod]]
 - any fish?
-- [[Poliwag]]
-- [[Wooper]]
+- [[60|Poliwag]]
+- [[194|Wooper]]
 
 ### Surf
-- [[Mudkip]]
-- [[Surskit]]
-- [[Lotad]]
+- [[258|Mudkip]]
+- [[283|Surskit]]
+- [[270|Lotad]]
 
 
 
@@ -46,4 +46,13 @@ getPokemon().forEach(number => {
     img.style.height = "100px";
     container.appendChild(img);
 });
+```
+
+```dataviewjs
+const { Pokemon } = await cJS();
+dv.el("div").replaceChildren(
+	Pokemon.Render.SpriteList(
+		Pokemon.LinkedInCurrent(dv)
+	)
+);
 ```

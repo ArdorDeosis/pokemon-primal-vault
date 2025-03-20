@@ -4,4 +4,4 @@ up from Town only with cut
 
 Pokémon
 ---
-- [[Skiddo]]
+- [[672|Skiddo]]

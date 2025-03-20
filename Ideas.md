@@ -16,6 +16,8 @@ three mountains
 - [[Tempered Forest]] => cold, snow, ice
 - [[Plains]] => thunder
 - [[Tropical]] => Volcano, fire
+
+crystal cave somewhere for [[147|Dratini]] and [[719|Diancie]]? maybe in the north?
 # Bits
 
 - Pokeballs are "magic relics"
@@ -37,12 +39,3 @@ tribes/humans based on pokemon
 - Tipi
 - Yurt (?)
 
-
-# Fixed Institutions
-
-- daycare
-
-
-# Forest Island
-
-with [[Pancham]] and [[Heracross]]

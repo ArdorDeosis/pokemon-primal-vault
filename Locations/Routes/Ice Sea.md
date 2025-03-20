@@ -1,22 +1,22 @@
 northern water
 maybe even a "north pass" to plains? 
 
-[[Lugia]]??
+[[249|Lugia]]??
 
-[[Corphish]] as fouth crab?
-[[Piplup]]?
-[[Skrelp]]
+[[341|Corphish]] as fouth crab?
+[[394|Prinplup]]?
+[[690|Skrelp]]
 
 Pokémon
 ---
 
 - [[Old Rod]]
-	- [[Shellder]]
+	- [[90|Shellder]]
 - [[Good Rod]]
-	- [[Seel]]
-	- [[Spheal]]
+	- [[86|Seel]]
+	- [[363|Spheal]]
 - [[Super Rod]]
 - Surf
-	- [[Wailmer]]
-	- [[Lapras]] ?
+	- [[320|Wailmer]]
+	- [[131|Lapras]] ?
 

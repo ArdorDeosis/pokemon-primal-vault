@@ -3,7 +3,7 @@ borders on: [[Plains]], [[Mountains]], [[Ice Sea]]
 
 Conifers
 
-dotted with small Cave Systems containing [[Zubat]] [[Paras]] [[Diglett]] and [[Kabuto]] when fishing/surfing
+dotted with small Cave Systems containing [[41|Zubat]] [[46|Paras]] [[50|Diglett]] and [[140|Kabuto]] when fishing/surfing
 
 # Locations
 

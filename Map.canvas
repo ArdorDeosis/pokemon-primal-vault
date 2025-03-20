@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"39b5e15e45464de1","type":"file","file":"Locations/Routes/Route 06.md","x":328,"y":-74,"width":180,"height":109},
-		{"id":"9680def5b8ace51a","type":"file","file":"Locations/Towns/Town 7.md","x":-199,"y":1420,"width":240,"height":140},
+		{"id":"9680def5b8ace51a","type":"file","file":"Locations/Towns/Town 7.md","x":-199,"y":1420,"width":240,"height":140,"color":"4"},
 		{"id":"6b233dd69d29f38c","type":"file","file":"Locations/Routes/Jungle Route 02.md","x":-184,"y":1280,"width":210,"height":80},
 		{"id":"33057d676a9bd79a","type":"file","file":"Locations/Towns/Town 6.md","x":556,"y":1080,"width":240,"height":160,"color":"4"},
 		{"id":"e08bd73cb2962be2","type":"file","file":"Locations/Routes/Jungle Route 01.md","x":196,"y":1120,"width":210,"height":80},
@@ -18,8 +18,8 @@
 		{"id":"52b3b172ea8c7360","type":"file","file":"Locations/Towns/Town 4.md","x":-47,"y":-680,"width":240,"height":105,"color":"5"},
 		{"id":"1ecce04632876ba9","type":"file","file":"Locations/Routes/Route 05.md","x":-44,"y":-498,"width":233,"height":109},
 		{"id":"21916fce4ce0bcc2","type":"file","file":"Locations/Dungeon/Ice Mountain.md","x":-368,"y":-760,"width":240,"height":80,"color":"2"},
-		{"id":"fe7700f1d579ed64","x":228,"y":-835,"width":400,"height":151,"type":"file","file":"Locations/Routes/Ice Sea.md"},
-		{"id":"206c7d573f29c090","x":-871,"y":64,"width":212,"height":85,"color":"2","type":"file","file":"Locations/Dungeon/Forest.md"},
+		{"id":"fe7700f1d579ed64","type":"file","file":"Locations/Routes/Ice Sea.md","x":228,"y":-835,"width":400,"height":151},
+		{"id":"206c7d573f29c090","type":"file","file":"Locations/Dungeon/Forest.md","x":-871,"y":64,"width":212,"height":85,"color":"2"},
 		{"id":"e24f6ab95f35191b","type":"file","file":"Locations/Dungeon/Swamp.md","x":-1400,"y":-265,"width":240,"height":80,"color":"2"},
 		{"id":"a5d2cba311cf5cfa","type":"file","file":"Locations/Routes/Route 03.md","x":-1161,"y":-294,"width":181,"height":138},
 		{"id":"975c640c0b9b768b","type":"file","file":"Locations/Towns/Town 3.md","x":-1150,"y":-481,"width":160,"height":92,"color":"5"},
@@ -35,7 +35,8 @@
 		{"id":"4a239153059d8c6f","type":"file","file":"Locations/Routes/Mountain Route.md","x":693,"y":-279,"width":175,"height":80},
 		{"id":"a45bcd07323c4de1","type":"text","text":"# Bad Team Hideout","x":-871,"y":-260,"width":240,"height":71,"color":"2"},
 		{"id":"52e79e3f98758ceb","type":"file","file":"Locations/Routes/Route 07.md","x":614,"y":270,"width":333,"height":109},
-		{"id":"4ef3511ab6f06494","type":"file","file":"Locations/Dungeon/Late Cave.md","x":661,"y":90,"width":240,"height":180,"color":"2"}
+		{"id":"4ef3511ab6f06494","type":"file","file":"Locations/Dungeon/Late Cave.md","x":661,"y":90,"width":240,"height":180,"color":"2"},
+		{"id":"ba0790146248ec28","x":-921,"y":627,"width":262,"height":126,"color":"2","type":"file","file":"Locations/Dungeon/Forest Island.md"}
 	],
 	"edges":[
 		{"id":"8687ea07b78bb34f","fromNode":"9a65d161987d0fab","fromSide":"left","toNode":"dbc395047bb0bdf9","toSide":"top"},

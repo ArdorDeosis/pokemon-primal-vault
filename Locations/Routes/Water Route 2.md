@@ -3,43 +3,43 @@ Pokémon
 ---
 ### North Coast, maybe on [[Town 8]] map
 - Grass
-	- [[Klawf]]
-	- [[Wingull]]
+	- [[950|Klawf]]
+	- [[278|Wingull]]
 - [[Old Rod]] / [[Good Rod]]
-	- [[Shellder]] 
-	- [[Staryu]]
-	- [[Relicanth]]
-	- [[Tirtouga]]
+	- [[90|Shellder]] 
+	- [[120|Staryu]]
+	- [[369|Relicanth]]
+	- [[564|Tirtouga]]
 - Surf
-	- [[Wingull]]
-	- [[Relicanth]]
+	- [[278|Wingull]]
+	- [[369|Relicanth]]
 
 North
 - [[Old Rod]] / [[Good Rod]] / Surf
-	- [[Tentacool]]
-	- [[Staryu]]
-	- [[Relicanth]]
-	- [[Wailmer]]
-	- [[Wingull]]
+	- [[72|Tentacool]]
+	- [[120|Staryu]]
+	- [[369|Relicanth]]
+	- [[320|Wailmer]]
+	- [[278|Wingull]]
 - [[Super Rod]]
-	- [[Magikarp|Gyarados]]
+	- [[130|Gyarados]]
 
 South
 - [[Old Rod]] / [[Good Rod]] / Surf
-	- [[Tentacool]]
-	- [[Corsola]]
-	- [[Wailmer]]
+	- [[72|Tentacool]]
+	- [[222|Corsola]]
+	- [[320|Wailmer]]
 - [[Super Rod]]
-	- [[Magikarp|Gyarados]]
+	- [[130|Gyarados]]
 
 South Coast
 - Grass
-	- [[Krabby]]
+	- [[98|Krabby]]
 - Surf
-	- [[Wiglett]]
+	- [[960|Wiglett]]
 - [[Old Rod]]
-	- [[Shellder]]
+	- [[90|Shellder]]
 - [[Good Rod]]
-	- [[Wiglett]]
-	- [[Corsola]]
-	- [[Tirtouga]]
+	- [[960|Wiglett]]
+	- [[222|Corsola]]
+	- [[564|Tirtouga]]

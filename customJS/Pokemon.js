@@ -34,19 +34,16 @@ class Pokemon {
 
     LinkedInCurrent(dv) {
         const allNumbers = dv.pages('"Pokemon"')
-            .where(p => p.file.inlinks.includes(dv.current().file.link) && Array.isArray(p.numbers))
-            .flatMap(p => p.numbers);
+            .where(p => p.file.inlinks.includes(dv.current().file.link))
+            .map(p => p.file.name);
         return Array.from(new Set(allNumbers)).sort((a, b) => a - b);
     }
 
     LinkedIn(dv, pageNames) {
         const pageLinks = pageNames.map(name => dv.page(name)?.file.link).filter(Boolean);
         const allNumbers = dv.pages('"Pokemon"')
-        .where(p =>
-            pageLinks.some(link => p.file.inlinks.includes(link)) &&
-            Array.isArray(p.numbers)
-        )
-        .flatMap(p => p.numbers);
+            .where(p => pageLinks.some(link => p.file.inlinks.includes(link)))
+            .map(p => p.file.name);
         return Array.from(new Set(allNumbers)).sort((a, b) => a - b);
     }
 

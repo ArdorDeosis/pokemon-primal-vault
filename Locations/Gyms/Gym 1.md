@@ -2,9 +2,17 @@
 
 #Fighting 
 
+- [[56|Mankey]]
+- [[57|Primeape]]
 
-- [[Mankey]]
-- [[Mankey|Primeape]]
+```dataviewjs
+const { Pokemon } = await cJS();
+dv.el("div").replaceChildren(
+	Pokemon.Render.SpriteList(
+		[56, 57]
+	)
+);
+```
 
-patron pokemon: [[]]
+style pokemon: ![[67|Machoke]]
 

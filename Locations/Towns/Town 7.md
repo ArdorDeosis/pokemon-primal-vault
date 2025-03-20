@@ -1,3 +1,2 @@
-# Town 7
-#Fire gym
-then learn surf
+[[Gym 5]]
+

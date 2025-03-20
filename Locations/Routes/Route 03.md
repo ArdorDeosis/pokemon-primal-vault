@@ -10,7 +10,7 @@ South: [[Town 2]]
 Pokémon
 ---
 ### Grass
-- [[Ekans]]
+- [[23|Ekans]]
 
 ### Surf
 

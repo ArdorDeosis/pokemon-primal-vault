@@ -1,4 +1,4 @@
-[[Moltres]] only with rock smash
+[[146|Moltres]] only with rock smash
 
 or with surf, maybe there is a volcanic cave, but to reach the summit, you need to surf?
 
@@ -6,14 +6,14 @@ or with surf, maybe there is a volcanic cave, but to reach the summit, you need 
 Pokémon
 ---
 - inside
-	- [[Onix]] fire edition
-	- [[Geodude]] fire edition
-	- [[Torkoal]]
-	- [[Slugma]]
+	- [[95|Onix]] fire edition
+	- [[74|Geodude]] and [[75|Graveler]] fire edition
+	- [[324|Torkoal]]
+	- [[218|Slugma]]
 - outside
-	- [[Larvesta]]
-	- [[Salandit]]
-	- [[Fletchling]]
+	- [[636|Larvesta]]
+	- [[757|Salandit]]
+	- [[661|Fletchling]]
 
 
 ```dataviewjs

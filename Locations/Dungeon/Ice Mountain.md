@@ -1,3 +1,3 @@
-[[Articuno]] with cut
+[[144|Articuno]] with cut
 
 overworld dungeon

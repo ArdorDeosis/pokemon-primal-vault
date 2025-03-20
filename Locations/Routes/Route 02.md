@@ -5,9 +5,9 @@ traversal dungeon: [[Forest]]
 
 Pokémon
 ---
-- [[Sentret]]
-- [[Pidgey]] or [[Spearow]]
-- [[Seedot]] or [[Slakoth]] or [[Mankey]]
+- [[161|Sentret]]
+- [[16|Pidgey]] or [[21|Spearow]]
+- [[273|Seedot]] or [[287|Slakoth]] or [[56|Mankey]]
 
 
 Connections

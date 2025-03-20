@@ -2,12 +2,12 @@
 
 Pokémon
 ---
-- [[Toedscool]]
-- [[Tangela]]
-- [[Oddish]]
-- [[Petilil]]
-- [[Pikipek|Toucannon]]
-- [[Mew]] (very rare)
+- [[948|Toedscool]]
+- [[114|Tangela]]
+- [[43|Oddish]] or [[44|Gloom]]
+- [[548|Petilil]] or [[549|Lilligant]]
+- [[733|Toucannon]]
+- [[151|Mew]] (very rare)
 
 
 ```dataviewjs

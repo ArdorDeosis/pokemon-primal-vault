@@ -39,14 +39,48 @@
             "id": "685347dd22f5e99a",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Map.canvas",
+                "viewState": {
+                  "x": 200,
+                  "y": 492.5,
+                  "zoom": -2.1593078940682835
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Map"
+            }
+          },
+          {
+            "id": "ff80c9d15a211628",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Pokemon/1.md",
+                "file": "Pokemon/565.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "565"
+            }
+          },
+          {
+            "id": "b984dcad2902b83b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Map.canvas",
+                "viewState": {
+                  "x": 200,
+                  "y": 492.5,
+                  "zoom": -2.1593078940682835
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Map"
             }
           },
           {
@@ -65,6 +99,26 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "7c2a1d431ac4c833",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "626b0b2c0815f5e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Dungeon/Forest Island.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forest Island"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +150,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Bug",
+                "query": "[\"types\":\"fighting]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,33 +262,32 @@
   },
   "active": "685347dd22f5e99a",
   "lastOpenFiles": [
-    "Pokemon/2.md",
-    "Pokemon/1.md",
-    "Pokemon/3.md",
-    "Pokemon/50.md",
-    "Pokemon/1025.md",
-    "Pokemon/1024.md",
-    "Pokemon/1023.md",
-    "Pokemon/1022.md",
-    "Pokemon/1021.md",
-    "Pokemon/1020.md",
-    "Pokemon/1019.md",
-    "Pokemon/1018.md",
-    "Pokemon/1017.md",
-    "Pokemon/1016.md",
-    "Pokemon/1015.md",
-    "Pokemon/1014.md",
-    "Pokemon/1013.md",
-    "Pokemon/1012.md",
-    "Pokemon/1011.md",
-    "Pokemon/1010.md",
-    "Pokemon/1009.md",
-    "Pokemon/1008.md",
-    "Pokemon/1007.md",
-    "Pokemon/1006.md",
-    "Pokemon/1005.md",
-    "Pokemon/1004.md",
     "Map.canvas",
+    "Locations/Dungeon/Forest.md",
+    "Locations/Dungeon/Volcano.md",
+    "Locations/Dungeon/Thunder Mountain.md",
+    "Locations/Dungeon/Swamp.md",
+    "Locations/Dungeon/Forest Island.md",
+    "Locations/Gyms/Gym 2.md",
+    "Biomes/Tropical.md",
+    "Locations/Dungeon/Bad Team Hideout.md",
+    "Locations/Dungeon/Ruins.md",
+    "Pokemon/436.md",
+    "Biomes/Sea.md",
+    "Biomes/Snow.md",
+    "Biomes/Tempered Forest.md",
+    "Stats.md",
+    "Pokemon/344.md",
+    "Locations/Dungeon/Late Cave.md",
+    "Locations/Dungeon/Ice Mountain.md",
+    "Locations/Gyms/Gym 8.md",
+    "Locations/Gyms/Gym 7.md",
+    "Locations/Gyms/Gym 6.md",
+    "Pokemon/565.md",
+    "Pokemon/834.md",
+    "Pokemon/9.md",
+    "Pokemon/389.md",
+    "Pokemon/324.md",
     "map.png",
     "map-large.png",
     "images/897.png",

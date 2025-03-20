@@ -4,10 +4,10 @@ late game: [[Ho-Oh]]
 
 Pokémon
 ---
-- [[Natu]]
-- [[Bronzor]]
-- [[Sigilyph]] (very rare, very strong)
-- maybe [[Hawlucha]]
+- [[177|Natu]] and [[178|Xatu]]
+- [[436|Bronzor]] and [[437|Bronzong]]
+- [[344|Claydol]] (very rare, very strong)
+- thought about [[81|Magnemite]] in a different form, less tech, more ancient civilization, maybe psychic?
 
 
 ```dataviewjs

@@ -4,8 +4,8 @@ first route
 
 Pokémon
 ---
-- [[Sentret]]
-- [[Pidgey]] or [[Spearow]]
+- [[161|Sentret]]
+- [[16|Pidgey]] or [[21|Spearow]]
 
 Connections
 ---
